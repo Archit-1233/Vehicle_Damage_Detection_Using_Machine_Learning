@@ -86,6 +86,7 @@ Custom-annotated dataset using **Roboflow**, with following labels:
 
 <img width="964" height="132" alt="image" src="https://github.com/user-attachments/assets/56861e6f-3e9e-4485-91a7-11034c202d13" />
 
+<img width="921" height="83" alt="image" src="https://github.com/user-attachments/assets/d220264c-b831-4233-b749-5df79264e64b" />
 
 
 
