@@ -78,12 +78,14 @@ Custom-annotated dataset using **Roboflow**, with following labels:
 ---
 
 ## 📊 Results
+<img width="1003" height="268" alt="image" src="https://github.com/user-attachments/assets/fa63d3d9-43ee-4f29-a1a3-9f35be4b480c" />
+
 
 | Metric       | Value  |
 |--------------|--------|
 | Precision    | 63%    |
-| Recall       | *TBD*  |
-| mAP@0.5      | *TBD*  |
+| Recall       | 53%  |
+| mAP@0.5      | 0.524  |
 
 ---
 
