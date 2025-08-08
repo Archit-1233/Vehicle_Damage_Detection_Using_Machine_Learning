@@ -80,6 +80,9 @@ Custom-annotated dataset using **Roboflow**, with following labels:
 ## 📊 Results
 <img width="1003" height="268" alt="image" src="https://github.com/user-attachments/assets/fa63d3d9-43ee-4f29-a1a3-9f35be4b480c" />
 
+<img width="956" height="321" alt="image" src="https://github.com/user-attachments/assets/760db6a8-0930-4b8c-a8f6-e3ebbaff85c8" />
+
+
 
 | Metric       | Value  |
 |--------------|--------|
