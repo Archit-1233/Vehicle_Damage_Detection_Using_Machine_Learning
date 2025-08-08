@@ -3,12 +3,17 @@
 > A real-time deep learning-based system that detects **scratches**, **dents**, and **broken parts** in vehicle images using a custom-trained YOLOv8 object detection model.
 
 ---
+## Result - 01
 <img width="1024" height="683" alt="image" src="https://github.com/user-attachments/assets/611acd84-24e9-4c06-871e-f577a34ec89d" />
+
+## Result -02
 
 <img width="882" height="579" alt="image" src="https://github.com/user-attachments/assets/7eecaad1-0a0a-4dc6-ab4b-99fa6209eb16" />
 
+## Result -03
 <img width="600" height="401" alt="image" src="https://github.com/user-attachments/assets/2a63b8ff-b6fc-4462-a76c-eff667db2fcd" />
 
+## Result - 04
 <img width="1300" height="956" alt="image" src="https://github.com/user-attachments/assets/7b671599-0726-4ce9-b8c4-8fb7d66c1822" />
 
 
